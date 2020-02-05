@@ -10,4 +10,6 @@ endif(MSVC)
 
 add_subdirectory(tutorial)
 
+# C++ demo
+add_subdirectory(swigdemo)
 
